@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/flashcard-study-buddy/static/css/main.f78f69fe.chunk.css",
-    "main.js": "/flashcard-study-buddy/static/js/main.96b2f15d.chunk.js",
-    "main.js.map": "/flashcard-study-buddy/static/js/main.96b2f15d.chunk.js.map",
-    "runtime-main.js": "/flashcard-study-buddy/static/js/runtime-main.eabfcc0a.js",
-    "runtime-main.js.map": "/flashcard-study-buddy/static/js/runtime-main.eabfcc0a.js.map",
-    "static/js/2.f967d3c0.chunk.js": "/flashcard-study-buddy/static/js/2.f967d3c0.chunk.js",
-    "static/js/2.f967d3c0.chunk.js.map": "/flashcard-study-buddy/static/js/2.f967d3c0.chunk.js.map",
-    "index.html": "/flashcard-study-buddy/index.html",
-    "static/css/main.f78f69fe.chunk.css.map": "/flashcard-study-buddy/static/css/main.f78f69fe.chunk.css.map",
-    "static/js/2.f967d3c0.chunk.js.LICENSE.txt": "/flashcard-study-buddy/static/js/2.f967d3c0.chunk.js.LICENSE.txt"
+    "main.css": "/flashcardlaw/static/css/main.f78f69fe.chunk.css",
+    "main.js": "/flashcardlaw/static/js/main.96b2f15d.chunk.js",
+    "main.js.map": "/flashcardlaw/static/js/main.96b2f15d.chunk.js.map",
+    "runtime-main.js": "/flashcardlaw/static/js/runtime-main.769759e7.js",
+    "runtime-main.js.map": "/flashcardlaw/static/js/runtime-main.769759e7.js.map",
+    "static/js/2.f967d3c0.chunk.js": "/flashcardlaw/static/js/2.f967d3c0.chunk.js",
+    "static/js/2.f967d3c0.chunk.js.map": "/flashcardlaw/static/js/2.f967d3c0.chunk.js.map",
+    "index.html": "/flashcardlaw/index.html",
+    "static/css/main.f78f69fe.chunk.css.map": "/flashcardlaw/static/css/main.f78f69fe.chunk.css.map",
+    "static/js/2.f967d3c0.chunk.js.LICENSE.txt": "/flashcardlaw/static/js/2.f967d3c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eabfcc0a.js",
+    "static/js/runtime-main.769759e7.js",
     "static/js/2.f967d3c0.chunk.js",
     "static/css/main.f78f69fe.chunk.css",
     "static/js/main.96b2f15d.chunk.js"
