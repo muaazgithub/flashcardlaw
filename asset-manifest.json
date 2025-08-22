@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/flashcardlaw/static/css/main.f78f69fe.chunk.css",
-    "main.js": "/flashcardlaw/static/js/main.96b2f15d.chunk.js",
-    "main.js.map": "/flashcardlaw/static/js/main.96b2f15d.chunk.js.map",
+    "main.css": "/flashcardlaw/static/css/main.4f46009c.chunk.css",
+    "main.js": "/flashcardlaw/static/js/main.0b5ea96b.chunk.js",
+    "main.js.map": "/flashcardlaw/static/js/main.0b5ea96b.chunk.js.map",
     "runtime-main.js": "/flashcardlaw/static/js/runtime-main.769759e7.js",
     "runtime-main.js.map": "/flashcardlaw/static/js/runtime-main.769759e7.js.map",
     "static/js/2.f967d3c0.chunk.js": "/flashcardlaw/static/js/2.f967d3c0.chunk.js",
     "static/js/2.f967d3c0.chunk.js.map": "/flashcardlaw/static/js/2.f967d3c0.chunk.js.map",
     "index.html": "/flashcardlaw/index.html",
-    "static/css/main.f78f69fe.chunk.css.map": "/flashcardlaw/static/css/main.f78f69fe.chunk.css.map",
+    "static/css/main.4f46009c.chunk.css.map": "/flashcardlaw/static/css/main.4f46009c.chunk.css.map",
     "static/js/2.f967d3c0.chunk.js.LICENSE.txt": "/flashcardlaw/static/js/2.f967d3c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.769759e7.js",
     "static/js/2.f967d3c0.chunk.js",
-    "static/css/main.f78f69fe.chunk.css",
-    "static/js/main.96b2f15d.chunk.js"
+    "static/css/main.4f46009c.chunk.css",
+    "static/js/main.0b5ea96b.chunk.js"
   ]
 }
