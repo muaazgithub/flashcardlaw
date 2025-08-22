@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/flashcardlaw/static/css/main.4f46009c.chunk.css",
-    "main.js": "/flashcardlaw/static/js/main.0b5ea96b.chunk.js",
-    "main.js.map": "/flashcardlaw/static/js/main.0b5ea96b.chunk.js.map",
+    "main.js": "/flashcardlaw/static/js/main.a63048f1.chunk.js",
+    "main.js.map": "/flashcardlaw/static/js/main.a63048f1.chunk.js.map",
     "runtime-main.js": "/flashcardlaw/static/js/runtime-main.769759e7.js",
     "runtime-main.js.map": "/flashcardlaw/static/js/runtime-main.769759e7.js.map",
     "static/js/2.f967d3c0.chunk.js": "/flashcardlaw/static/js/2.f967d3c0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.769759e7.js",
     "static/js/2.f967d3c0.chunk.js",
     "static/css/main.4f46009c.chunk.css",
-    "static/js/main.0b5ea96b.chunk.js"
+    "static/js/main.a63048f1.chunk.js"
   ]
 }
